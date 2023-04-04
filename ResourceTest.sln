@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WinUI3Package (Package)", "WinUI3Package\WinUI3Package (Package)\WinUI3Package (Package).wapproj", "{7BB329F2-9370-4FDC-9748-D4AACD49CF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI3Package", "WinUI3Package\WinUI3Package\WinUI3Package.csproj", "{68B3FC0F-8B63-41A3-9776-74942471BD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI3NonPackage", "WinUI3NonPackage\WinUI3NonPackage\WinUI3NonPackage.csproj", "{5074E698-CB47-4CEB-859C-573576705BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{861CA251-7D9F-4157-BF59-21EEAF33FA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB329F2-9370-4FDC-9748-D4AACD49CF78}.Debug|x64.ActiveCfg = Debug|x64
+		{7BB329F2-9370-4FDC-9748-D4AACD49CF78}.Debug|x64.Build.0 = Debug|x64
+		{7BB329F2-9370-4FDC-9748-D4AACD49CF78}.Debug|x64.Deploy.0 = Debug|x64
+		{7BB329F2-9370-4FDC-9748-D4AACD49CF78}.Release|x64.ActiveCfg = Release|x64
+		{7BB329F2-9370-4FDC-9748-D4AACD49CF78}.Release|x64.Build.0 = Release|x64
+		{7BB329F2-9370-4FDC-9748-D4AACD49CF78}.Release|x64.Deploy.0 = Release|x64
+		{68B3FC0F-8B63-41A3-9776-74942471BD5A}.Debug|x64.ActiveCfg = Debug|x64
+		{68B3FC0F-8B63-41A3-9776-74942471BD5A}.Debug|x64.Build.0 = Debug|x64
+		{68B3FC0F-8B63-41A3-9776-74942471BD5A}.Release|x64.ActiveCfg = Release|x64
+		{68B3FC0F-8B63-41A3-9776-74942471BD5A}.Release|x64.Build.0 = Release|x64
+		{5074E698-CB47-4CEB-859C-573576705BD4}.Debug|x64.ActiveCfg = Debug|x64
+		{5074E698-CB47-4CEB-859C-573576705BD4}.Debug|x64.Build.0 = Debug|x64
+		{5074E698-CB47-4CEB-859C-573576705BD4}.Release|x64.ActiveCfg = Release|x64
+		{5074E698-CB47-4CEB-859C-573576705BD4}.Release|x64.Build.0 = Release|x64
+		{861CA251-7D9F-4157-BF59-21EEAF33FA0E}.Debug|x64.ActiveCfg = Debug|x64
+		{861CA251-7D9F-4157-BF59-21EEAF33FA0E}.Debug|x64.Build.0 = Debug|x64
+		{861CA251-7D9F-4157-BF59-21EEAF33FA0E}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D43A9A-5107-4B9A-BCA4-A345CA77204E}
+	EndGlobalSection
+EndGlobal
